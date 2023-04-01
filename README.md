@@ -2,4 +2,4 @@
 #TODO
  - accuracy
  - transfer learning
- - oops
+ - oop
